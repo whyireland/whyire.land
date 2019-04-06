@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'inconsolataregular';
+    src: url('inconsolata-regular.woff2') format('woff2'),
+         url('inconsolata-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratextralight';
+    src: url('montserrat-extralight.woff2') format('woff2'),
+         url('montserrat-extralight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
